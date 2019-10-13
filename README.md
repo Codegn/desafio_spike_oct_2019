@@ -1,6 +1,4 @@
 # desafio_spike_oct_2019
 
-1. conda create -n datascience python=3.7.4 pandas numpy matplotlib jupyter keras scikit-learn
-2. conda install astropy
-3. pip install git+https://github.com/pandas-profiling/pandas-profiling.git
-
+Para replicar el enviroment que utilicé, intalar miniconda y luego utilizar el siguiente comando
+1. conda create -n datascience2 python=3.7.4 pandas numpy matplotlib jupyter tensorflow=1.13 keras scikit-learn dask
