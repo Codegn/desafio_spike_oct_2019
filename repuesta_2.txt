@@ -1,2 +1,0 @@
-Mediante la exploración realizada con el jupyter notebook data_exploration.ipynb se logran obtener las siguientes conclusiones:
-- 
